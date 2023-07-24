@@ -2,7 +2,7 @@
 
 # DART
 
-## Short programs (each task in it's on main file and main function)
+## 1. Short programs (each task in it's on main file and main function)
 
 1. Write a program to compute the sum of the two given integer values.
 2. Write a program to check whether a given positive number is a multiple of 3 or a multiple of 7.
@@ -33,7 +33,7 @@
     ["Sophia", "Liam", "Mia", "Olivia", "Lion", "Amelia", "Elijah", "Leo", "Emily"]
     Output:["Sophia", "Mia", "Lion", "Amelia", "Elijah", "Leo"]
 
-## Functions (all in one file; all exercises below must be separate functions)
+## 2. Functions (all in one file; all exercises below must be separate functions)
 
 1. Write a function to compute the product of 3 given numbers
 2. Write a function to transform Celsius degrees to Fahrenheit
@@ -123,7 +123,7 @@
     Input: ( [Pair("ION", "07412772323"), Pair("Daniel Pare", "074127424232"), Pair("Cares Mutesr Per", "07413272123")], ["Cares Mutesr Per", "Dan", "Daniel", "ION", "Mircea"] )
     Output: ["Number of Cares Mutesr Per is 07413272123", "There is no phone number for Dan", "There is no phone number for Daniel", "Phone number of ION is 07412772323", "There is no phone number for Mircea"]
 
-## Combine functions(a new file where you should reuse functions from 2nd point or create extra functions if there is need to)
+## 3. Combine functions(a new file where you should reuse functions from 2nd point or create extra functions if there is need to)
 
 1. Write a function that transforms Celsius degrees to Fahrenheit or Fahrenheit degrees to Celsius
    based on selection. [Use [ENUM](https://dart.dev/language/enums) for degree type]
@@ -170,7 +170,7 @@
    1 1 2 3
    1 1 2 3 5
 
-## Optional params
+## 4. Optional params
 
 1. Write a function that gets two real numbers as parameter and returns the division of the numbers.
    If the division is not possible return null
