@@ -134,13 +134,13 @@
    Input: 74.4 Fahrenheit
    Output: 25 //Celsius
 
-2. Write a function to check if two given non-negative integers have the same first digit.
+2. Write a function to check if two given non-negative integers have the same first digit and returns bool.
    e.g
    Input: 1234, 234
-   Output: no
+   Output: false
    e.g
    Input: 23, 2345
-   Output: yes
+   Output: true
 
 3. Write a function in Dart to count how many numbers from a given array have the first digit equal
    with a given one.
